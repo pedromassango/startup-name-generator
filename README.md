@@ -7,5 +7,10 @@ The app generate random words, when the user click on some word or heart icon,
 the item is marked as favorite, and added to favorite list. You can see your favorited words
 by clicking in list icon that appear on top right of the screen.
 
+### TODO
+- Save favorites in database
+- Share words
+
+
 <img src="/screenshots/1.png" width="245" height="480">   <img src="/screenshots/2.png" width="245" height="480">
 
