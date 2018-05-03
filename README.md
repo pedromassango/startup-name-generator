@@ -2,7 +2,7 @@
 
 Project made when studding in Google Code Lab. This is a simple startup name generator made with Flutter.
 
-##How it Works
+## How it Works
 The app generate random words, when the user click on some word or heart icon,
 the item is marked as favorite, and added to favorite list. You can see your favorited words
 by clicking in list icon that appear on top right of the screen.
